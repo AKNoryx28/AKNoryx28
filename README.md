@@ -25,12 +25,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKNoryx28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Support Me💙
+[<img align="center" alt="Paypal's" width="40" src="https://github.com/askanakmala/template_me/raw/main/20210126_073022.png" />][Support]
+[<img align="center" alt="Saweria" width="40" src="https://github.com/askanakmala/template_me/raw/main/Logo-Saweria-Donasi.png" />][Support]
+
 [instagram]: https://instagram.com/askan_28
 [telegram]: https://t.me/Askan28
+[Support]: https://linktr.ee/Askan28
 
 <br />
 
-## Support Me💙
-<img align="center" alt="Paypal's" width="40" src="https://github.com/askanakmala/template_me/raw/main/20210126_073022.png"/> <img align="center" alt="Saweria" width="40" src="https://github.com/askanakmala/template_me/raw/main/Logo-Saweria-Donasi.png"/>
-
-[Support](https://linktr.ee/Askan28)
