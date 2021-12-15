@@ -23,7 +23,9 @@
 
 ![Askan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKNoryx28&hide=contribs&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKNoryx28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKNoryx28&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Askan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AKNoryx28&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Support Me💙
 [<img align="center" alt="Paypal's" width="40" src="https://github.com/askanakmala/template_me/raw/main/20210126_073022.png" />][Support]
