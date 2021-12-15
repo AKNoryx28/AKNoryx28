@@ -21,7 +21,7 @@
 <br />
 <br />
 
- <img align="left" alt="Askan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AKNoryx28&show_icons=true&hide_border=true&theme=tokyonight" />
+![Askan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKNoryx28&hide=contribs&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKNoryx28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
