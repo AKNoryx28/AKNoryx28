@@ -4,7 +4,7 @@
 <p align="center"><b>We didn't receive a proper request from your browser.</b></p>
 <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Contact Support</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">@githubstatus</a>
 </p>
