@@ -31,7 +31,7 @@
 
 [instagram]: https://instagram.com/askan_28
 [telegram]: https://t.me/AskanDX
-[Support]: https://linktr.ee/Askan28
+[Support]:
 
 <br />
 
